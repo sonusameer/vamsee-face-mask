@@ -22,8 +22,5 @@ Command for running app\
 1. This app is deployed on [Heroku](https://face-mask--detection-app.herokuapp.com/)
 
  **Note: The tensorflow model load into the memory and hence can be slow on heroku as compared to the local enviornment**
-
-## Developer
-
-### Hi there, I'm Ameya Upalanchi 
+ll
 
