@@ -27,7 +27,3 @@ Command for running app\
 
 ### Hi there, I'm Ameya Upalanchi 
 
-#### I'm a Project Enthusiast, Developer, and Life long learner!
-
--  I am currently learning everything 
--  2021 Goals: Contribute more to Open Source projects
